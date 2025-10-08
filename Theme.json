@@ -55,7 +55,7 @@
                 {
                     "showMarker": true,
                     "markerShape": "circle",
-                    "markerSize": 35
+                    "markerSize": 30
                 }
                 ]
             }
